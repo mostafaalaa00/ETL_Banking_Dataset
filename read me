@@ -1,0 +1,3 @@
+ETL Banking Dataset
+This notebook to read banking dataset then make some ETL process on it and add it as a table to database
+we have json files (two) as new data and want to add this data into existing csv file (historical data) after some process on it and finally save all this data into database
